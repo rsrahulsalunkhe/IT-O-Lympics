@@ -443,18 +443,17 @@ ul a:hover {
 }
 
 .prizes {
-  margin-top: 40px;
-  text-align: center;
   display: flex;
-  width: 1142px;
-  margin: 0 auto;
+  flex-wrap: wrap;
+  padding: 1em 1em;
+  text-align: center;
 }
 
 .desc {
-  width: 100%;
+  width: 50%;
 }
 .cert {
-  width: 100%;
+  width: 30%;
 }
 
 .cert img {
